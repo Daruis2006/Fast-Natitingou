@@ -42,7 +42,7 @@
 		"gmailAccount": {
 			"email": "",
 			"clientId": "100095479328934",
-			"clientSecret": "",
+			"clientSecret": "100095479328934",
 			"refreshToken": "",
 			"apiKey": ""
 		},
