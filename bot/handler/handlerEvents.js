@@ -207,7 +207,7 @@ module.exports = function (api, threadModel, userModel, dashBoardModel, globalMo
 
 		/*
 			+-----------------------------------------------+
-			|							 WHEN CALL COMMAND								|
+			|				 WHEN CALL COMMAND								|
 			+-----------------------------------------------+
 		*/
 		let isUserCallCommand = false;
